@@ -14,3 +14,7 @@ I hope I can develop all my beautiful skills.
 ##### 🔧Tools
 
 ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white) ![VScode](https://img.shields.io/badge/VScode-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
+
+![Minggle0322's github stats](https://github-readme-stats.vercel.app/api?username=minggle0322&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minggle0322&layout=compact&theme=default)
