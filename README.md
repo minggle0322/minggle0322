@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminggle0322%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Email Address](https://img.shields.io/badge/minggle0322@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/minggle0322-E4405F?style=flat-square&logo=Instagram&logoColor=white)
 
 🖐 Hi! I am a FN developer using mainly React.js.
